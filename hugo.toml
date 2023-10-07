@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sovereign-cloud.nl'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sovereign Cloud NL Community'
 theme = 'clarity'
