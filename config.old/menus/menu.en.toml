@@ -16,7 +16,7 @@ enableSearch = true
 
 [[menu.main]]
   name = "Blog"
-  url = "posts/"
+  url = "content/posts/"
   weight = -109
 
 [[main]]
