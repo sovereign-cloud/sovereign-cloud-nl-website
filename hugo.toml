@@ -30,7 +30,7 @@ enableSearch = true
   weight = -107
 
 # Submenus are done this way: parent -> identifier
-[[main]]
+[[menu.main]]
   name = "Links"
   identifier = "Links"
   weight = -106
