@@ -1,0 +1,15 @@
+baseURL = 'https://sovereign-cloud.nl/'
+languageCode = 'en-us'
+title = 'Sovereign Cloud NL Community'
+theme = "clarity"
+
+copyright = "Copyright © 2023, Sovereign Cloud NL Community; all rights reserved."
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+showShare = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

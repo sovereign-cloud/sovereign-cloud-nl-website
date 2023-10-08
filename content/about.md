@@ -6,20 +6,20 @@ aliases = ["about-us", "contact"]
 author = "SC"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+Welcome at Souvereign Cloud NL, the Dutch frontrunners of Microsoft Cloud for Sovereinty, Azure Confidential Compute and more.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+This initiative was started by <a href="https://www.linkedin.com/in/ilovit/">Arnold van Wijnbergen</a>  and <a href="https://www.linkedin.com/in/dinantpaardenkooper/">Dinant Paardenkooper</a>, two Microsoft Azure specialists who have the 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+<!DOCTYPE html><html>
+<head> <style>
+    img { border-radius: 20% 20% 20% 20%; width: 200px; height: 0px;}
+    </style></head>
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+![::round](/images/Paardenkooper.png)
+
+
+## Lets get in touch!
+Email: d.paardenkooper@it-impressive.nl
