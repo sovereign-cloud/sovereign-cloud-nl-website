@@ -19,7 +19,7 @@ enableSearch = true
   url = "posts/"
   weight = -109
 
-[[main]]
+[[menu.main]]
   name = "Archive"
   url = "archive/"
   weight = -108
