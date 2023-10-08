@@ -34,15 +34,15 @@ enableSearch = true
   name = "Links"
   identifier = "Links"
   weight = -106
-[[main]]
+[[menu.main]]
   parent = "Links"
   name = "LinkedIn"
   url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
-[[main]]
+[[menu.main]]
   parent = "Links"
   name = "Cloud for Sovereignty"
   url = "https://cloudforsovereignty.org"
-[[main]]
+[[menu.main]]
   parent = "Links"
   name = "Microsoft Docs"
   url = "https://learn.microsoft.com/en-us/industry/sovereignty/"
