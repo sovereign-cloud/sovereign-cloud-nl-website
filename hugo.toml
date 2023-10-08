@@ -63,3 +63,13 @@ enableSearch = true
    name = "linkedin"
    weight = 3
    url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+showShare = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
