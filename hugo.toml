@@ -15,14 +15,38 @@ enableSearch = true
   weight = -110
 
 [[menu.main]]
+  name = "Blogs"
+  url = "blogs/"
+  weight = -109
+
+[[main]]
+  name = "Archive"
+  url = "archive/"
+  weight = -108
+
+[[menu.main]]
   name = "About"
   url = "about/"
   weight = -107
 
-[[menu.main]]
-  name = "Blogs"
-  url = "blogs/"
-  weight = -107
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Links"
+  identifier = "Links"
+  weight = -106
+[[main]]
+  parent = "Links"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
+[[main]]
+  parent = "Links"
+  name = "Cloud for Sovereignty"
+  url = "https://cloudforsovereignty.org"
+[[main]]
+  parent = "Links"
+  name = "Microsoft Docs"
+  url = "https://learn.microsoft.com/en-us/industry/sovereignty/"
+
   
 # social menu links
 
