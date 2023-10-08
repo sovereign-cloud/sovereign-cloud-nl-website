@@ -59,7 +59,7 @@ enableSearch = true
   name = "twitter"
   weight = 2
   url = "https://twitter.com/#sovereign-cloud-nl"
-# [[menu.social]]
-#   name = "linkedin"
-#   weight = 3
-#   url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
+ [[menu.social]]
+   name = "linkedin"
+   weight = 3
+   url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
