@@ -21,7 +21,7 @@ enableSearch = true
 
 [[menu.main]]
   name = "Archive"
-  url = "/archive/"
+  url = "archive/"
   weight = -108
 
 [[menu.main]]
