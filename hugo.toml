@@ -16,12 +16,12 @@ enableSearch = true
 
 [[menu.main]]
   name = "Blogs"
-  url = "content/posts/"
+  url = "/posts/"
   weight = -109
 
 [[menu.main]]
   name = "Archive"
-  url = "archive/"
+  url = "/archive/"
   weight = -108
 
 [[menu.main]]
