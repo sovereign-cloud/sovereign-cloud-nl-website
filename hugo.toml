@@ -2,3 +2,40 @@ baseURL = 'https://sovereign-cloud.nl'
 languageCode = 'en-us'
 title = 'Sovereign Cloud NL Community'
 theme = 'clarity'
+
+[params]
+logo = 'images/sovereign-cloud-logo-left.png'
+enableSearch = true
+
+[menu]
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -110
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+[[menu.main]]
+  name = "Blogs"
+  url = "blogs/"
+  weight = -107
+  
+# social menu links
+
+[[menu.social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/sovereign-cloud"
+[[menu.social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/#sovereign-cloud-nl"
+[[menu.social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
