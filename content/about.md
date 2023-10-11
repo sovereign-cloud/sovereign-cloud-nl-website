@@ -14,4 +14,3 @@ This initiative was started by <a href="https://www.linkedin.com/in/ilovit/">Arn
 
 
 ## Lets get in touch!
-Email: 
