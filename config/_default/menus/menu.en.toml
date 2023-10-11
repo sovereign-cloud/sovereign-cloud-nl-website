@@ -29,11 +29,11 @@
   url = "https://www.linkedin.com/company/sovereign-cloud-nl-community"
 [[main]]
   parent = "Links"
-  name = "Cloud for Sovereignty"
-  url = "https://cloudforsovereignty.org"
+  name = "Microsoft Docs - Confidential Compute"
+  url = "https://azure.microsoft.com/en-gb/solutions/confidential-compute"
 [[main]]
   parent = "Links"
-  name = "Microsoft Docs"
+  name = "Microsoft Docs - Cloud for Sovereignty"
   url = "https://learn.microsoft.com/en-us/industry/sovereignty/"
 
   
