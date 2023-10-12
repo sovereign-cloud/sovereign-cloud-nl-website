@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Sovereign Cloud NL Community'
 theme = "clarity"
 
-copyright = "Copyright © 2023, Sovereign Cloud NL Community; all rights reserved."
+# copyright = "Copyright © 2023, Sovereign Cloud NL Community; all rights reserved."
 
 [taxonomies]
 category = "categories"
