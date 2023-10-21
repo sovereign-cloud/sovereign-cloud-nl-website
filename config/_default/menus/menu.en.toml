@@ -40,6 +40,18 @@
   parent = "Links"
   name = "Microsoft Docs - Cloud for Sovereignty"
   url = "https://learn.microsoft.com/en-us/industry/sovereignty/"
+[[main]]
+  parent = "Links"
+  name = "CCF - Confidential Consortium Framework"
+  url = "https://ccf.microsoft.com/"
+[[main]]
+  parent = "Links"
+  name = "CCC - Confidential Computing Consortium"
+  url = "https://confidentialcomputing.io/"
+[[main]]
+  parent = "Links"
+  name = "Edgeless Systems - Multi-Cloud Security"
+  url = "https://www.edgeless.systems/"
 
   
 # social menu links
