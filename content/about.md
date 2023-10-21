@@ -10,7 +10,7 @@ author = "SC"
 We are the Dutch frontrunners of Microsoft Cloud for Sovereinty, Azure Confidential Compute and more. 
 
 ### Our mission
-Bring companies like Financial, Goverment and Health institutes together with experts and support these customers and their Engineers, Developers, to make cloud ready for the next facing challenges around Cyber Security and the need for Sovereign controls such as defined in [NIS2](https://www.ncsc.nl/over-ncsc/wettelijke-taak/wat-gaat-de-nis2-richtlijn-betekenen-voor-uw-organisatie).
+Bring companies like Financial, Goverment and Health institutes together with experts and support these customers and their employees like product owners,architects, engineers, developers, etc; to make cloud platforms ready for the next facing challenges around Cyber Security and the need for Sovereign controls such as defined in [NIS2](https://www.ncsc.nl/over-ncsc/wettelijke-taak/wat-gaat-de-nis2-richtlijn-betekenen-voor-uw-organisatie).
 
 ### Goals to achieve
 - Provide a platform for collaboration.
