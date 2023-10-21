@@ -19,7 +19,7 @@ Want to get involved with the community? Great we have a Github Discussion Forum
 - Pitch ideas, show off something or just general discussions.  
 - Ask questions and get community support in our Q&A.
 
-Just go to [Sovereign Cloud Community Discussions](https://github.com/orgs/sovereign-cloud/discussions)
+Just go to [Sovereign Cloud Community Discussions](https://github.com/orgs/sovereign-cloud/discussions) and join!
 
 ### Talks & meetup involvement
 
