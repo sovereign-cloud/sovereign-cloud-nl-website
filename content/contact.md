@@ -15,29 +15,30 @@ Lets get in touch!
 ### Community involvement
 
 Want to get involved with the community? Great we have a Github Discussion Forum to support collaboration & knowledge sharing. In our forum you can:
-- See our recent announcements our the community.
+- Don't miss announcements around the community and technology.
 - Pitch ideas, show off something or just general discussions.  
-- Ask questions and get community support.
+- Ask questions and get community support in our Q&A.
 
-https://github.com/orgs/sovereign-cloud/discussions
+Just go to [Sovereign Cloud Community Discussions](https://github.com/orgs/sovereign-cloud/discussions)
 
 ### Talks & meetup involvement
 
 We are happy to give a conference or community talk to share our experience and ideas around favorite topics like Sovereign Cloud and Confidential Compute.
 Just send us a message through through LinkedIn or email:
 
-- [Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
-- [Sovereign Cloud NL Community](mailto:sovereigncloudNLCommunity@outlook.com)
+- [LinkedIn Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
+- [sovereigncloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
 
+We usually respond within one business day!
 
 ### Consultancy & Training
 
-Our team is always delightful to support customers with the Sovereign Cloud Journey. We provide both consultancy and training. Just send us a message through through LinkedIn or email:
+Our team is always delightful to support customers with their Sovereign Cloud Journey. We provide both consultancy, training and love challenges. Just send us a message through through LinkedIn or email:
 
-- [Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
-- [Sovereign Cloud NL Community](mailto:sovereigncloudNLCommunity@outlook.com)
+- [LinkedIn Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
+- [sovereigncloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
 
-
+We usually respond within one business day!
 
 
 

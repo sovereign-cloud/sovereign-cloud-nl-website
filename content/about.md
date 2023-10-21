@@ -6,11 +6,19 @@ aliases = ["about-us", "contact"]
 author = "SC"
 +++
 
-
 ## Welcome at Souvereign Cloud NL!
-The Dutch frontrunners of Microsoft Cloud for Sovereinty, Azure Confidential Compute and more.
+We are the Dutch frontrunners of Microsoft Cloud for Sovereinty, Azure Confidential Compute and more. 
 
-This initiative was started by <a href="https://www.linkedin.com/in/ilovit/">Arnold van Wijnbergen</a> and <a href="https://www.linkedin.com/in/dinantpaardenkooper/">Dinant Paardenkooper</a>, two Microsoft Azure specialists.
+### Our mission
+Bring companies like Financial, Goverment and Health institues together with experts and help these customers their Engineers, Developers, to make Cloud ready for the next facing challenges around Cyber Security and the need for Sovereign controls such as defined in NIS2.
 
+### Goals to achieve
+- Provide a platform for collaboration.
+- Share expertise, knowledge and ideas.
+- Ultimately make Cloud a safer place!
 
-## Lets get in touch!
+## About the founders
+
+This initiative was started by <a href="https://www.linkedin.com/in/ilovit/">Arnold van Wijnbergen</a> and <a href="https://www.linkedin.com/in/dinantpaardenkooper/">Dinant Paardenkooper</a>, two Microsoft Azure specialists which are working on early adoption of Azure Cloud for Sovereinty.
+
+We always like to search and get in contact with peers in the industry! Just add us to your LinkedIn!
