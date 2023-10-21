@@ -27,7 +27,7 @@ We are happy to give a conference or community talk to share our experience and 
 Just send us a message through through LinkedIn or email:
 
 - [LinkedIn Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
-- [sovereigncloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
+- [SovereignCloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
 
 We usually respond within one business day!
 
@@ -36,7 +36,7 @@ We usually respond within one business day!
 Our team is always delightful to support customers with their Sovereign Cloud Journey. We provide both consultancy, training and love challenges. Just send us a message through through LinkedIn or email:
 
 - [LinkedIn Sovereign Cloud NL Community](https://www.linkedin.com/company/sovereign-cloud-nl-community/about/?viewAsMember=true)
-- [sovereigncloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
+- [SovereignCloudNLCommunity@outlook.com](mailto:sovereigncloudNLCommunity@outlook.com)
 
 We usually respond within one business day!
 
