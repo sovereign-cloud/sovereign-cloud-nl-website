@@ -18,6 +18,11 @@
   url = "about/"
   weight = -107
 
+[[main]]
+  name = "Contact"
+  url = "contact/"
+  weight = -106
+
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Links"
