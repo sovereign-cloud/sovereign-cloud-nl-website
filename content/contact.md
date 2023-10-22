@@ -10,8 +10,6 @@ author = "avwsolutions"
 
 Warm welcome to our contact page. There are a few ways you can get in touch with team behind the community. Depending on your situation you can choose your favorite method of communication below:
 
-Lets get in touch!
-
 ### Community involvement
 
 Want to get involved with the community? Great we have a Github Discussion Forum to support collaboration & knowledge sharing. In our forum you can:
