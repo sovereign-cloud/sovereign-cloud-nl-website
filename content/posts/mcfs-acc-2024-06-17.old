@@ -52,14 +52,14 @@ You may protect your virtualized environment from the host, the hypervisor, the 
 <B>Sovereign customers</B> <br>
 Confidential computing can apply to various scenarios for protecting data in regulated industries such as government, financial services, and healthcare institutes. 
 
-<img src="/images/mfcs11.png" width="800" height="1000">
+<img src="/images/mcfs11.png" width="800" height="1000">
 
 <br>
 
 <B>Scenarios</B> <br>
 Below you can find common scenarios, which are intended to in spire you and give you a starting point, when building your applications with frameworks and services for confidential computing. Those scenarios can be found on  <a href="https://learn.microsoft.com/en-us/azure/confidential-computing/use-cases-scenarios#scenarios">MS Learn</a>.
 
-<img src="/images/mfcs12.png" width="800" height="1000">
+<img src="/images/mcfs12.png" width="800" height="1000">
 
 <br>
 
@@ -72,7 +72,7 @@ Microsoft Azure offers the following services with Confidential Compute:
     - <b>VMs with Application Enclaves using Intel SGX</b>. DCsv2, DCsv3, and DCdsv3 enable organizations to create hardware enclaves. These secure enclaves help protect from cloud operators, and your own VM admins; <br>
     - <b>App-enclave aware containers running on Azure Kubernetes Service (AKS)</b>. Confidential computing nodes on AKS use Intel SGX to create isolated enclave environments in the nodes between each container application.<br>
 
-<img src="/images/mfcs13.png" width="800" height="1000">
+<img src="/images/mcfs13.png" width="800" height="1000">
 
 <I>Confidential services </I> <br>
 Azure offers various PaaS, SaaS and VM capabilities supporting or built upon confidential computing, this includes: <br>
