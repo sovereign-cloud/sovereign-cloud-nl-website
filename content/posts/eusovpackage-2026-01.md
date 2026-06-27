@@ -11,7 +11,7 @@ usePageBundles: false
 # featureImage: "/images/eu-tech-sovereignty.jpg"
 # featureImageAlt: "European Union Tech Sovereignty"
 # featureImageCap: "The EU is investing in digital resilience and strategic autonomy."
-thumbnail: "/images/eu-tech-image.png"
+thumbnail: "/images/tech-eu-image.png"
 # shareImage: "/images/eu-tech-image.png"
 codeMaxLines: 10
 codeLineNumbers: false
@@ -171,3 +171,7 @@ It represents Europe's attempt to redefine its role in the global technology lan
 Whether the initiative ultimately succeeds remains to be seen, but one thing is already certain: **technology sovereignty has become a cornerstone of Europe's industrial strategy for the coming decade.**
 
 For businesses operating in or with Europe, now is the time to understand how this evolving strategy will influence cloud adoption, procurement decisions, software development, and long-term digital transformation.
+
+If you'd like to explore the initiative in more detail, including the official Communication, the Cloud and AI Development Act, Chips Act 2.0, the EU Open Source Strategy, and supporting fact sheets, visit the European Commission's **EU Tech Sovereignty** page:
+
+https://digital-strategy.ec.europa.eu/en/policies/eu-tech-sovereignty
